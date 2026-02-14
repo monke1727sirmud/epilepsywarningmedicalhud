@@ -1,0 +1,12 @@
+{
+  "name": "epilepsy-alert-hud",
+  "version": "1.0.0",
+  "description": "Epilepsy Emergency Alert HUD for Second Life",
+  "main": "epilepsy_alert_hud.lsl",
+  "scripts": {
+    "build": "echo 'LSL script - no build required'"
+  },
+  "keywords": ["secondlife", "medical", "alert", "hud"],
+  "author": "",
+  "license": "MIT"
+}
